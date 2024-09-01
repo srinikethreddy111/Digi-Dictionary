@@ -1,0 +1,10 @@
+.theme Switch with smooth transition effect --Completed
+.quiz --not started
+.new logo(with shadows) --Completed
+.top loading bar(by inplementing fetchSearch
+ function for only on enter, by using
+ another arugument to know on enter only) --not started
+.to change api --not started
+.layout change to responsive(including navbar) --not started
+.include ai --not started
+.new search cards  --working
